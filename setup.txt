@@ -1,0 +1,19 @@
+pip install ollama
+
+pip install datasets huggingface_hub
+
+ollama pull llama3.1:8b
+4.9 GB
+
+ollama pull deepseek-coder-v2:16b
+8.9 GB
+
+ollama pull qwen2.5-coder:14b
+9.0 GB
+
+ollama pull gemma2:9b
+5.4 GB
+
+ollama pull phi3.5:latest
+2.2 GB
+
