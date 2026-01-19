@@ -1,0 +1,139 @@
+                                         nl_task_title  NOL  Total_MIL  Total_MOL  C_system Complexity_Level
+0          Uploading Documents with Secure Storage 0/I    6         12         12      5562             High
+1         Uploading Documents with Secure Storage 0/II    6         12         12      5562             High
+2        Uploading Documents with Secure Storage 0/III    6         12         12      5562             High
+3         Uploading Documents with Secure Storage 0/IV    6         12         12      5562             High
+4     Real-Time Notifications for Workflow Updates 1/I    6         12         12      3660             High
+5    Real-Time Notifications for Workflow Updates 1/II    6         12         12      3660             High
+6    Real-Time Notifications for Workflow Updates 1...    6         12         12      3660             High
+7    Real-Time Notifications for Workflow Updates 1/IV    6         12         12      3660             High
+8        OAuth login flow for a mobile application 2/I    5         29         29    126970             High
+9       OAuth login flow for a mobile application 2/II    5         29         29    126970             High
+10   Send a notification to an end user via the Not...    7         16         16     11249             High
+11   Send a notification to an end user via the Not...    7         16         16     11249             High
+12   Send a notification to an end user via the Not...    7         16         16     11249             High
+13   Send a notification to an end user via the Not...    7         16         16     11249             High
+14                                Read water meter 4/I    5         22         22     17090             High
+15                               Read water meter 4/II    5         22         22     17090             High
+16                              Read water meter 4/III    5         22         22     17090             High
+17                               Read water meter 4/IV    5         22         22     17090             High
+18   Fetching user profile from SOR, update profile...    4         12         12      2704             High
+19   Fetching user profile from SOR, update profile...    4         12         12      2704             High
+20   Fetching user profile from SOR, update profile...    4         12         12      2704             High
+21   Fetching user profile from SOR, update profile...    4         12         12      2704             High
+22   User registration and account creation process...    5         15         15      6045             High
+23   User registration and account creation process...    5         15         15      6045             High
+24   User registration and account creation process...    5         15         15      6045             High
+25   User registration and account creation process...    5         15         15      6045             High
+26   Online payment processing for an e-commerce ap...    5         10         10      1490           Medium
+27   Online payment processing for an e-commerce ap...    5         10         10      1490           Medium
+28   Online payment processing for an e-commerce ap...    5         10         10      1490           Medium
+29   Online payment processing for an e-commerce ap...    5         10         10      1490           Medium
+30        Chatbot interaction for customer support 8/I    5         26         26     48760             High
+31       Chatbot interaction for customer support 8/II    5         26         26     48760             High
+32      Chatbot interaction for customer support 8/III    5         29         29    126970             High
+33       Chatbot interaction for customer support 8/IV    5         29         29    126970             High
+34        Chatbot interaction for customer support 8/V    5         29         29    126970             High
+35       Chatbot interaction for customer support 8/VI    5         29         29    126970             High
+36      Chatbot interaction for customer support 8/VII    5         29         29    126970             High
+37     Chatbot interaction for customer support 8/VIII    5         29         29    126970             High
+38       Chatbot interaction for customer support 8/IX    5         29         29    126970             High
+39        Chatbot interaction for customer support 8/X    5         29         29    126970             High
+40       Chatbot interaction for customer support 8/XI    5         29         29    126970             High
+41      Chatbot interaction for customer support 8/XII    5         29         29    126970             High
+42     Chatbot interaction for customer support 8/XIII    5         29         29    126970             High
+43      Chatbot interaction for customer support 8/XIV    5         29         29    126970             High
+44       Chatbot interaction for customer support 8/XV    5         29         29    126970             High
+45      Chatbot interaction for customer support 8/XVI    5         29         29    126970             High
+46     Chatbot interaction for customer support 8/XVII    5         29         29    126970             High
+47    Chatbot interaction for customer support 8/XVIII    5         29         29    126970             High
+48      Chatbot interaction for customer support 8/XIX    5         29         29    126970             High
+49       Chatbot interaction for customer support 8/XX    5         29         29    126970             High
+50      Chatbot interaction for customer support 8/XXI    5         29         29    126970             High
+51     Chatbot interaction for customer support 8/XXII    5         29         29    126970             High
+52    Chatbot interaction for customer support 8/XXIII    5         29         29    126970             High
+53     Chatbot interaction for customer support 8/XXIV    5         29         29    126970             High
+54      Chatbot interaction for customer support 8/XXV    5         29         29    126970             High
+55     Chatbot interaction for customer support 8/XXVI    5         29         29    126970             High
+56    Chatbot interaction for customer support 8/XXVII    5         29         29    126970             High
+57   Chatbot interaction for customer support 8/XXVIII    5         29         29    126970             High
+58     Chatbot interaction for customer support 8/XXIX    5         29         29    126970             High
+59      Chatbot interaction for customer support 8/XXX    5         29         29    126970             High
+60     Chatbot interaction for customer support 8/XXXI    5         29         29    126970             High
+61    Chatbot interaction for customer support 8/XXXII    5         29         29    126970             High
+62   File upload and processing for a document mana...    6         10         10      1656             High
+63   File upload and processing for a document mana...    6         10         10      1656             High
+64                               Placing an Order 10/I    5         16         16      6410             High
+65                              Placing an Order 10/II    5         16         16      6410             High
+66                             Placing an Order 10/III    5         16         16      6410             High
+67                              Placing an Order 10/IV    5         16         16      6410             High
+68                            User Authentication 11/I    4          9          9       680           Medium
+69                           User Authentication 11/II    4          9          9       680           Medium
+70                          User Authentication 11/III    4          9          9       680           Medium
+71                           User Authentication 11/IV    4          9          9       680           Medium
+72                               Booking a Flight 12/I    5         17         17      8580             High
+73                              Booking a Flight 12/II    5         17         17      8580             High
+74                             Booking a Flight 12/III    5         17         17      8580             High
+75                              Booking a Flight 12/IV    5         17         17      8580             High
+76                               Sending an Email 13/I    4          7          7       376           Medium
+77                              Sending an Email 13/II    4          7          7       376           Medium
+78                             Sending an Email 13/III    4          7          7       376           Medium
+79                              Sending an Email 13/IV    4          7          7       376           Medium
+80                              Uploading a Video 14/I    5         11         11      1565             High
+81                             Uploading a Video 14/II    5         11         11      1565             High
+82                            Uploading a Video 14/III    5         11         11      1565             High
+83                             Uploading a Video 14/IV    5         11         11      1565             High
+84           Booking an appointment with a doctor 15/I    5         12         12      1605             High
+85          Booking an appointment with a doctor 15/II    5         12         12      1605             High
+86         Booking an appointment with a doctor 15/III    5         12         12      1605             High
+87          Booking an appointment with a doctor 15/IV    5         12         12      1605             High
+88                    Submitting a support ticket 16/I    5          9          9      1230           Medium
+89                   Submitting a support ticket 16/II    5          9          9      1230           Medium
+90                               Ordering a Pizza 17/I    4          9          9       460           Medium
+91                              Ordering a Pizza 17/II    4          9          9       460           Medium
+92                     Social Media Post Creation 18/I    4          7          7       376           Medium
+93                    Social Media Post Creation 18/II    4          7          7       376           Medium
+94                   Social Media Post Creation 18/III    4          7          7       376           Medium
+95                    Social Media Post Creation 18/IV    4          7          7       376           Medium
+96       Video streaming service content delivery 19/I    5          9          9       575           Medium
+97      Video streaming service content delivery 19/II    5          9          9       575           Medium
+98   Online booking system for hotel reservations 20/I    5         13         13      3735             High
+99   Online booking system for hotel reservations 2...    5         13         13      3735             High
+100  Online booking system for hotel reservations 2...    5         13         13      3735             High
+101  Online booking system for hotel reservations 2...    5         13         13      3735             High
+102     Social media post sharing and interaction 21/I    5          6          6       205           Medium
+103    Social media post sharing and interaction 21/II    5          6          6       205           Medium
+104                             Sending a Message 22/I    5         12         12      3410             High
+105                            Sending a Message 22/II    5         12         12      3410             High
+106                           Sending a Message 22/III    5         12         12      3410             High
+107                            Sending a Message 22/IV    5         12         12      3410             High
+108                             Requesting a Ride 23/I    5         13         13      2765             High
+109                            Requesting a Ride 23/II    5         13         13      2765             High
+110                           Requesting a Ride 23/III    5         13         13      2765             High
+111                            Requesting a Ride 23/IV    5         13         13      2765             High
+112                  Submitting a Job Application 24/I    5         10         10       990           Medium
+113                 Submitting a Job Application 24/II    5         10         10       990           Medium
+114                Submitting a Job Application 24/III    5         10         10       990           Medium
+115                 Submitting a Job Application 24/IV    5         10         10       990           Medium
+116               Making a Restaurant Reservation 25/I    5         10         10       990           Medium
+117              Making a Restaurant Reservation 25/II    5         10         10       990           Medium
+118             Making a Restaurant Reservation 25/III    5         10         10       990           Medium
+119              Making a Restaurant Reservation 25/IV    5         10         10       990           Medium
+120                        Online Order Placement 26/I    5         12         12      3275             High
+121                       Online Order Placement 26/II    5         12         12      3275             High
+122                      Online Order Placement 26/III    5         12         12      3275             High
+123                       Online Order Placement 26/IV    5         12         12      3275             High
+124         User Authentication and Authorization 27/I    4         11         11      3404             High
+125        User Authentication and Authorization 27/II    4         11         11      3404             High
+126                    Real-Time Chat Application 28/I    5         11         11      2270             High
+127                   Real-Time Chat Application 28/II    5         11         11      2270             High
+128  Video Streaming Service and Statistics Logging...    5         11         11      2405             High
+129  Video Streaming Service and Statistics Logging...    5         11         11      2405             High
+130  Video Streaming Service and Statistics Logging...    5         11         11      2405             High
+131  Video Streaming Service and Statistics Logging...    5         11         11      2405             High
+
+Dağılım:
+ Complexity_Level
+High      100
+Medium     32
+Name: count, dtype: int64

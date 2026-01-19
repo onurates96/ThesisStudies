@@ -1,0 +1,141 @@
+Low: 0 - 1620.00 | Medium: 1620.00 - 48795.00 | High: > 48795.00
+
+                                         nl_task_title  NOL  Total_MIL  Total_CF  Total_IO  C_system Complexity_Level
+0          Uploading Documents with Secure Storage 0/I    6         12         1         2      5616           Medium
+1         Uploading Documents with Secure Storage 0/II    6         12         1         2      5616           Medium
+2        Uploading Documents with Secure Storage 0/III    6         12         1         2      5616           Medium
+3         Uploading Documents with Secure Storage 0/IV    6         12         1         2      5616           Medium
+4     Real-Time Notifications for Workflow Updates 1/I    6         12         1         2      3714           Medium
+5    Real-Time Notifications for Workflow Updates 1/II    6         12         1         2      3714           Medium
+6    Real-Time Notifications for Workflow Updates 1...    6         12         1         2      3714           Medium
+7    Real-Time Notifications for Workflow Updates 1/IV    6         12         1         2      3714           Medium
+8        OAuth login flow for a mobile application 2/I    5         29         4        10    127170             High
+9       OAuth login flow for a mobile application 2/II    5         29         4        10    127170             High
+10   Send a notification to an end user via the Not...    7         16         3         6     11438           Medium
+11   Send a notification to an end user via the Not...    7         16         3         6     11438           Medium
+12   Send a notification to an end user via the Not...    7         16         3         6     11438           Medium
+13   Send a notification to an end user via the Not...    7         16         3         6     11438           Medium
+14                                Read water meter 4/I    5         22         4         7     17260           Medium
+15                               Read water meter 4/II    5         22         4         7     17260           Medium
+16                              Read water meter 4/III    5         22         4         7     17260           Medium
+17                               Read water meter 4/IV    5         22         4         7     17260           Medium
+18   Fetching user profile from SOR, update profile...    4         12         1         2      2740           Medium
+19   Fetching user profile from SOR, update profile...    4         12         1         2      2740           Medium
+20   Fetching user profile from SOR, update profile...    4         12         1         2      2740           Medium
+21   Fetching user profile from SOR, update profile...    4         12         1         2      2740           Medium
+22   User registration and account creation process...    5         15         1         2      6090           Medium
+23   User registration and account creation process...    5         15         1         2      6090           Medium
+24   User registration and account creation process...    5         15         1         2      6090           Medium
+25   User registration and account creation process...    5         15         1         2      6090           Medium
+26   Online payment processing for an e-commerce ap...    5         10         1         3      1545              Low
+27   Online payment processing for an e-commerce ap...    5         10         1         3      1545              Low
+28   Online payment processing for an e-commerce ap...    5         10         1         3      1545              Low
+29   Online payment processing for an e-commerce ap...    5         10         1         3      1545              Low
+30        Chatbot interaction for customer support 8/I    5         26         1         1     48795           Medium
+31       Chatbot interaction for customer support 8/II    5         26         1         1     48795           Medium
+32      Chatbot interaction for customer support 8/III    5         29         4        10    127170             High
+33       Chatbot interaction for customer support 8/IV    5         29         4        10    127170             High
+34        Chatbot interaction for customer support 8/V    5         29         4        10    127170             High
+35       Chatbot interaction for customer support 8/VI    5         29         4        10    127170             High
+36      Chatbot interaction for customer support 8/VII    5         29         4        10    127170             High
+37     Chatbot interaction for customer support 8/VIII    5         29         4        10    127170             High
+38       Chatbot interaction for customer support 8/IX    5         29         4        10    127170             High
+39        Chatbot interaction for customer support 8/X    5         29         4        10    127170             High
+40       Chatbot interaction for customer support 8/XI    5         29         4        10    127170             High
+41      Chatbot interaction for customer support 8/XII    5         29         4        10    127170             High
+42     Chatbot interaction for customer support 8/XIII    5         29         4        10    127170             High
+43      Chatbot interaction for customer support 8/XIV    5         29         4        10    127170             High
+44       Chatbot interaction for customer support 8/XV    5         29         4        10    127170             High
+45      Chatbot interaction for customer support 8/XVI    5         29         4        10    127170             High
+46     Chatbot interaction for customer support 8/XVII    5         29         4        10    127170             High
+47    Chatbot interaction for customer support 8/XVIII    5         29         4        10    127170             High
+48      Chatbot interaction for customer support 8/XIX    5         29         4        10    127170             High
+49       Chatbot interaction for customer support 8/XX    5         29         4        10    127170             High
+50      Chatbot interaction for customer support 8/XXI    5         29         4        10    127170             High
+51     Chatbot interaction for customer support 8/XXII    5         29         4        10    127170             High
+52    Chatbot interaction for customer support 8/XXIII    5         29         4        10    127170             High
+53     Chatbot interaction for customer support 8/XXIV    5         29         4        10    127170             High
+54      Chatbot interaction for customer support 8/XXV    5         29         4        10    127170             High
+55     Chatbot interaction for customer support 8/XXVI    5         29         4        10    127170             High
+56    Chatbot interaction for customer support 8/XXVII    5         29         4        10    127170             High
+57   Chatbot interaction for customer support 8/XXVIII    5         29         4        10    127170             High
+58     Chatbot interaction for customer support 8/XXIX    5         29         4        10    127170             High
+59      Chatbot interaction for customer support 8/XXX    5         29         4        10    127170             High
+60     Chatbot interaction for customer support 8/XXXI    5         29         4        10    127170             High
+61    Chatbot interaction for customer support 8/XXXII    5         29         4        10    127170             High
+62   File upload and processing for a document mana...    6         10         0         1      1668           Medium
+63   File upload and processing for a document mana...    6         10         0         1      1668           Medium
+64                               Placing an Order 10/I    5         16         2         5      6510           Medium
+65                              Placing an Order 10/II    5         16         2         5      6510           Medium
+66                             Placing an Order 10/III    5         16         2         5      6510           Medium
+67                              Placing an Order 10/IV    5         16         2         5      6510           Medium
+68                            User Authentication 11/I    4          9         1         3       724              Low
+69                           User Authentication 11/II    4          9         1         3       724              Low
+70                          User Authentication 11/III    4          9         1         3       724              Low
+71                           User Authentication 11/IV    4          9         1         3       724              Low
+72                               Booking a Flight 12/I    5         17         1         4      8645           Medium
+73                              Booking a Flight 12/II    5         17         1         4      8645           Medium
+74                             Booking a Flight 12/III    5         17         1         4      8645           Medium
+75                              Booking a Flight 12/IV    5         17         1         4      8645           Medium
+76                               Sending an Email 13/I    4          7         1         2       412              Low
+77                              Sending an Email 13/II    4          7         1         2       412              Low
+78                             Sending an Email 13/III    4          7         1         2       412              Low
+79                              Sending an Email 13/IV    4          7         1         2       412              Low
+80                              Uploading a Video 14/I    5         11         1         3      1620              Low
+81                             Uploading a Video 14/II    5         11         1         3      1620              Low
+82                            Uploading a Video 14/III    5         11         1         3      1620              Low
+83                             Uploading a Video 14/IV    5         11         1         3      1620              Low
+84           Booking an appointment with a doctor 15/I    5         12         1         2      1650           Medium
+85          Booking an appointment with a doctor 15/II    5         12         1         2      1650           Medium
+86         Booking an appointment with a doctor 15/III    5         12         1         2      1650           Medium
+87          Booking an appointment with a doctor 15/IV    5         12         1         2      1650           Medium
+88                    Submitting a support ticket 16/I    5          9         0         0      1230              Low
+89                   Submitting a support ticket 16/II    5          9         0         0      1230              Low
+90                               Ordering a Pizza 17/I    4          9         0         1       468              Low
+91                              Ordering a Pizza 17/II    4          9         0         1       468              Low
+92                     Social Media Post Creation 18/I    4          7         1         2       412              Low
+93                    Social Media Post Creation 18/II    4          7         1         2       412              Low
+94                   Social Media Post Creation 18/III    4          7         1         2       412              Low
+95                    Social Media Post Creation 18/IV    4          7         1         2       412              Low
+96       Video streaming service content delivery 19/I    5          9         0         0       575              Low
+97      Video streaming service content delivery 19/II    5          9         0         0       575              Low
+98   Online booking system for hotel reservations 20/I    5         13         1         4      3800           Medium
+99   Online booking system for hotel reservations 2...    5         13         1         4      3800           Medium
+100  Online booking system for hotel reservations 2...    5         13         1         4      3800           Medium
+101  Online booking system for hotel reservations 2...    5         13         1         4      3800           Medium
+102     Social media post sharing and interaction 21/I    5          6         0         0       205              Low
+103    Social media post sharing and interaction 21/II    5          6         0         0       205              Low
+104                             Sending a Message 22/I    5         12         1         3      3465           Medium
+105                            Sending a Message 22/II    5         12         1         3      3465           Medium
+106                           Sending a Message 22/III    5         12         1         3      3465           Medium
+107                            Sending a Message 22/IV    5         12         1         3      3465           Medium
+108                             Requesting a Ride 23/I    5         13         1         2      2810           Medium
+109                            Requesting a Ride 23/II    5         13         1         2      2810           Medium
+110                           Requesting a Ride 23/III    5         13         1         2      2810           Medium
+111                            Requesting a Ride 23/IV    5         13         1         2      2810           Medium
+112                  Submitting a Job Application 24/I    5         10         1         2      1035              Low
+113                 Submitting a Job Application 24/II    5         10         1         2      1035              Low
+114                Submitting a Job Application 24/III    5         10         1         2      1035              Low
+115                 Submitting a Job Application 24/IV    5         10         1         2      1035              Low
+116               Making a Restaurant Reservation 25/I    5         10         1         3      1045              Low
+117              Making a Restaurant Reservation 25/II    5         10         1         3      1045              Low
+118             Making a Restaurant Reservation 25/III    5         10         1         3      1045              Low
+119              Making a Restaurant Reservation 25/IV    5         10         1         3      1045              Low
+120                        Online Order Placement 26/I    5         12         1         2      3320           Medium
+121                       Online Order Placement 26/II    5         12         1         2      3320           Medium
+122                      Online Order Placement 26/III    5         12         1         2      3320           Medium
+123                       Online Order Placement 26/IV    5         12         1         2      3320           Medium
+124         User Authentication and Authorization 27/I    4         11         0         3      3428           Medium
+125        User Authentication and Authorization 27/II    4         11         0         3      3428           Medium
+126                    Real-Time Chat Application 28/I    5         11         0         0      2270           Medium
+127                   Real-Time Chat Application 28/II    5         11         0         0      2270           Medium
+128  Video Streaming Service and Statistics Logging...    5         11         1         2      2450           Medium
+129  Video Streaming Service and Statistics Logging...    5         11         1         2      2450           Medium
+130  Video Streaming Service and Statistics Logging...    5         11         1         2      2450           Medium
+131  Video Streaming Service and Statistics Logging...    5         11         1         2      2450           Medium
+
+Karmaşıklık Seviyesi Dağılımı:
+ Complexity_Level
+Medium    64
+Low       36
+High      32
